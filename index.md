@@ -1,0 +1,18 @@
+---
+layout: default
+title: FAQ
+---
+
+# Frequently Asked Questions
+
+<details>
+  <summary>What is this site for?</summary>
+  <p>This is a personal FAQ to answer common questions about Gnomonkey.</p>
+</details>
+
+<details>
+  <summary>Why the name Gnomonkey?</summary>
+  <p>It's a long story involving a garden gnome and a typewriter.</p>
+</details>
+
+<!-- Add more questions here -->
